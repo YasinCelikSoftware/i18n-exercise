@@ -8,10 +8,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
-# Hakkında
-
-Bu repository Front-End development ile ilgili egzersizlerimi toplamak için oluşturulmuştur.
-
 ### `i18n-exercise`
 
     Herhangi bir css dosyası olmadan sadece i18n ile sayfaları multi-language hale getirme denemesini içermektedir.
